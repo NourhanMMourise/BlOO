@@ -7,9 +7,11 @@
 <p align="center">
   <i>If you're into real-time social platforms — you're gonna like this one</i>
 </p>
+
+
 ## 🌐 Main Repo
 
-- **GitHub Repo**:  (BlOO)[https://github.com/YousryEssam/BlOO]
+- **GitHub Repo**: [BlOO](https://github.com/YousryEssam/BlOO)
 
 ## 🌐 Live Demo
 
